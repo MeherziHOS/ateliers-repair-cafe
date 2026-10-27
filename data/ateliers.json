@@ -1,0 +1,501 @@
+[
+    {
+        "id": "AT-01",
+        "titre": "Vélo : régler ses freins et son dérailleur",
+        "categorie": "velo",
+        "date": "2026-11-07",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": [
+            "lea.martin@example.org",
+            "noah.durand@example.org",
+            "jade.garcia@example.org",
+            "louis.bernard@example.org",
+            "emma.leroy@example.org",
+            "gabriel.david@example.org",
+            "chloe.dubois@example.org",
+            "adam.moreau@example.org"
+        ]
+    },
+    {
+        "id": "AT-02",
+        "titre": "Retoucher un vêtement : ourlets et boutons",
+        "categorie": "couture",
+        "date": "2026-11-07",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": [
+            "ines.bertrand@example.org",
+            "arthur.thomas@example.org",
+            "lina.simon@example.org",
+            "jules.roux@example.org"
+        ]
+    },
+    {
+        "id": "AT-03",
+        "titre": "Petit électroménager : la bouilloire qui ne chauffe plus",
+        "categorie": "petit-electromenager",
+        "date": "2026-11-07",
+        "debut": "14:00",
+        "dureeMinutes": 180,
+        "lieu": "Maison des associations, salle 2",
+        "places": 10,
+        "inscrits": [
+            "mila.robert@example.org",
+            "hugo.laurent@example.org",
+            "zoe.vincent@example.org",
+            "sacha.richard@example.org",
+            "nina.lefebvre@example.org",
+            "yanis.fournier@example.org",
+            "rose.petit@example.org"
+        ]
+    },
+    {
+        "id": "AT-04",
+        "titre": "Électronique : diagnostiquer une panne d'alimentation",
+        "categorie": "electronique",
+        "date": "2026-11-14",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": [
+            "malo.michel@example.org",
+            "alice.martin@example.org",
+            "samuel.durand@example.org",
+            "lou.garcia@example.org",
+            "nael.bernard@example.org"
+        ]
+    },
+    {
+        "id": "AT-05",
+        "titre": "Informatique : réinstaller un ordinateur portable",
+        "categorie": "informatique",
+        "date": "2026-11-14",
+        "debut": "10:30",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": [
+            "manon.leroy@example.org",
+            "tom.david@example.org",
+            "sarah.dubois@example.org",
+            "ethan.moreau@example.org",
+            "julia.bertrand@example.org",
+            "isaac.thomas@example.org"
+        ]
+    },
+    {
+        "id": "AT-06",
+        "titre": "Jouets en bois : recoller, poncer, repeindre",
+        "categorie": "jouets",
+        "date": "2026-11-14",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": ["lea.simon@example.org", "noah.roux@example.org", "jade.robert@example.org"]
+    },
+    {
+        "id": "AT-07",
+        "titre": "Couture : réparer une fermeture éclair",
+        "categorie": "couture",
+        "date": "2026-11-21",
+        "debut": "10:00",
+        "dureeMinutes": 90,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": [
+            "louis.laurent@example.org",
+            "emma.vincent@example.org",
+            "gabriel.richard@example.org",
+            "chloe.lefebvre@example.org",
+            "adam.fournier@example.org",
+            "ines.petit@example.org"
+        ]
+    },
+    {
+        "id": "AT-08",
+        "titre": "Vélo : changer une chambre à air",
+        "categorie": "velo",
+        "date": "2026-11-21",
+        "debut": "10:00",
+        "dureeMinutes": 90,
+        "lieu": "Maison des associations, salle 2",
+        "places": 10,
+        "inscrits": [
+            "arthur.michel@example.org",
+            "lina.martin@example.org",
+            "jules.durand@example.org",
+            "mila.garcia@example.org",
+            "hugo.bernard@example.org",
+            "zoe.leroy@example.org",
+            "sacha.david@example.org",
+            "nina.dubois@example.org",
+            "yanis.moreau@example.org"
+        ]
+    },
+    {
+        "id": "AT-09",
+        "titre": "Électronique : souder un câble audio",
+        "categorie": "electronique",
+        "date": "2026-11-21",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 6,
+        "inscrits": ["rose.bertrand@example.org", "malo.thomas@example.org"]
+    },
+    {
+        "id": "AT-10",
+        "titre": "Informatique : sauvegarder ses photos et ses documents",
+        "categorie": "informatique",
+        "date": "2026-11-28",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 8,
+        "inscrits": [
+            "alice.simon@example.org",
+            "samuel.roux@example.org",
+            "lou.robert@example.org",
+            "nael.laurent@example.org",
+            "manon.vincent@example.org",
+            "tom.richard@example.org",
+            "sarah.lefebvre@example.org"
+        ]
+    },
+    {
+        "id": "AT-11",
+        "titre": "Petit électroménager : détartrer et réparer une cafetière",
+        "categorie": "petit-electromenager",
+        "date": "2026-11-28",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": [
+            "ethan.fournier@example.org",
+            "julia.petit@example.org",
+            "isaac.michel@example.org",
+            "lea.martin@example.org",
+            "noah.durand@example.org",
+            "jade.garcia@example.org",
+            "louis.bernard@example.org",
+            "emma.leroy@example.org"
+        ]
+    },
+    {
+        "id": "AT-12",
+        "titre": "Jouets : réparer une peluche ou une poupée",
+        "categorie": "jouets",
+        "date": "2026-11-28",
+        "debut": "14:00",
+        "dureeMinutes": 90,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": ["gabriel.david@example.org"]
+    },
+    {
+        "id": "AT-13",
+        "titre": "Vélo : entretenir sa chaîne avant l'hiver",
+        "categorie": "velo",
+        "date": "2026-12-05",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": [
+            "chloe.dubois@example.org",
+            "adam.moreau@example.org",
+            "ines.bertrand@example.org",
+            "arthur.thomas@example.org",
+            "lina.simon@example.org"
+        ]
+    },
+    {
+        "id": "AT-14",
+        "titre": "Couture : rapiécer un jean",
+        "categorie": "couture",
+        "date": "2026-12-05",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": [
+            "jules.roux@example.org",
+            "mila.robert@example.org",
+            "hugo.laurent@example.org",
+            "zoe.vincent@example.org",
+            "sacha.richard@example.org",
+            "nina.lefebvre@example.org"
+        ]
+    },
+    {
+        "id": "AT-15",
+        "titre": "Électronique : remplacer la batterie d'un téléphone",
+        "categorie": "electronique",
+        "date": "2026-12-05",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 6,
+        "inscrits": [
+            "yanis.fournier@example.org",
+            "rose.petit@example.org",
+            "malo.michel@example.org",
+            "alice.martin@example.org"
+        ]
+    },
+    {
+        "id": "AT-16",
+        "titre": "Informatique : libérer de la place sur son ordinateur",
+        "categorie": "informatique",
+        "date": "2026-12-12",
+        "debut": "10:00",
+        "dureeMinutes": 90,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 10,
+        "inscrits": [
+            "samuel.durand@example.org",
+            "lou.garcia@example.org",
+            "nael.bernard@example.org",
+            "manon.leroy@example.org",
+            "tom.david@example.org",
+            "sarah.dubois@example.org",
+            "ethan.moreau@example.org",
+            "julia.bertrand@example.org",
+            "isaac.thomas@example.org",
+            "lea.simon@example.org"
+        ]
+    },
+    {
+        "id": "AT-17",
+        "titre": "Jouets électroniques : piles, contacts et interrupteurs",
+        "categorie": "jouets",
+        "date": "2026-12-12",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 6,
+        "inscrits": [
+            "noah.roux@example.org",
+            "jade.robert@example.org",
+            "louis.laurent@example.org",
+            "emma.vincent@example.org"
+        ]
+    },
+    {
+        "id": "AT-18",
+        "titre": "Petit électroménager : l'aspirateur qui n'aspire plus",
+        "categorie": "petit-electromenager",
+        "date": "2026-12-12",
+        "debut": "14:00",
+        "dureeMinutes": 180,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": [
+            "gabriel.richard@example.org",
+            "chloe.lefebvre@example.org",
+            "adam.fournier@example.org"
+        ]
+    },
+    {
+        "id": "AT-19",
+        "titre": "Couture : décorations de Noël en tissu de récupération",
+        "categorie": "couture",
+        "date": "2026-12-19",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 8,
+        "inscrits": [
+            "ines.petit@example.org",
+            "arthur.michel@example.org",
+            "lina.martin@example.org",
+            "jules.durand@example.org",
+            "mila.garcia@example.org",
+            "hugo.bernard@example.org",
+            "zoe.leroy@example.org",
+            "sacha.david@example.org"
+        ]
+    },
+    {
+        "id": "AT-20",
+        "titre": "Vélo : l'éclairage et les réflecteurs",
+        "categorie": "velo",
+        "date": "2026-12-19",
+        "debut": "10:00",
+        "dureeMinutes": 90,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": ["nina.dubois@example.org", "yanis.moreau@example.org"]
+    },
+    {
+        "id": "AT-21",
+        "titre": "Électronique : réparer une guirlande lumineuse",
+        "categorie": "electronique",
+        "date": "2026-12-19",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 10,
+        "inscrits": [
+            "rose.bertrand@example.org",
+            "malo.thomas@example.org",
+            "alice.simon@example.org",
+            "samuel.roux@example.org",
+            "lou.robert@example.org",
+            "nael.laurent@example.org",
+            "manon.vincent@example.org",
+            "tom.richard@example.org",
+            "sarah.lefebvre@example.org"
+        ]
+    },
+    {
+        "id": "AT-22",
+        "titre": "Informatique : protéger ses comptes en ligne",
+        "categorie": "informatique",
+        "date": "2027-01-09",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 10,
+        "inscrits": [
+            "ethan.fournier@example.org",
+            "julia.petit@example.org",
+            "isaac.michel@example.org",
+            "lea.martin@example.org",
+            "noah.durand@example.org",
+            "jade.garcia@example.org"
+        ]
+    },
+    {
+        "id": "AT-23",
+        "titre": "Petit électroménager : le grille-pain qui ne s'éteint plus",
+        "categorie": "petit-electromenager",
+        "date": "2027-01-09",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 6,
+        "inscrits": ["louis.bernard@example.org", "emma.leroy@example.org"]
+    },
+    {
+        "id": "AT-24",
+        "titre": "Couture : coudre un bouton et une boutonnière",
+        "categorie": "couture",
+        "date": "2027-01-09",
+        "debut": "14:00",
+        "dureeMinutes": 90,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": [
+            "gabriel.david@example.org",
+            "chloe.dubois@example.org",
+            "adam.moreau@example.org",
+            "ines.bertrand@example.org",
+            "arthur.thomas@example.org"
+        ]
+    },
+    {
+        "id": "AT-25",
+        "titre": "Vélo : réviser son vélo de A à Z",
+        "categorie": "velo",
+        "date": "2027-01-16",
+        "debut": "10:00",
+        "dureeMinutes": 180,
+        "lieu": "Maison des associations, salle 2",
+        "places": 6,
+        "inscrits": [
+            "lina.simon@example.org",
+            "jules.roux@example.org",
+            "mila.robert@example.org",
+            "hugo.laurent@example.org",
+            "zoe.vincent@example.org",
+            "sacha.richard@example.org"
+        ]
+    },
+    {
+        "id": "AT-26",
+        "titre": "Jouets : recoller une maquette ou une figurine",
+        "categorie": "jouets",
+        "date": "2027-01-16",
+        "debut": "14:00",
+        "dureeMinutes": 90,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": []
+    },
+    {
+        "id": "AT-27",
+        "titre": "Électronique : l'enceinte Bluetooth qui grésille",
+        "categorie": "electronique",
+        "date": "2027-01-16",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 8,
+        "inscrits": [
+            "nina.lefebvre@example.org",
+            "yanis.fournier@example.org",
+            "rose.petit@example.org",
+            "malo.michel@example.org",
+            "alice.martin@example.org",
+            "samuel.durand@example.org"
+        ]
+    },
+    {
+        "id": "AT-28",
+        "titre": "Informatique : passer à un système libre",
+        "categorie": "informatique",
+        "date": "2027-01-23",
+        "debut": "10:00",
+        "dureeMinutes": 180,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 8,
+        "inscrits": [
+            "lou.garcia@example.org",
+            "nael.bernard@example.org",
+            "manon.leroy@example.org",
+            "tom.david@example.org"
+        ]
+    },
+    {
+        "id": "AT-29",
+        "titre": "Petit électroménager : réparer un sèche-cheveux",
+        "categorie": "petit-electromenager",
+        "date": "2027-01-23",
+        "debut": "10:00",
+        "dureeMinutes": 120,
+        "lieu": "Maison des associations, salle 2",
+        "places": 6,
+        "inscrits": [
+            "sarah.dubois@example.org",
+            "ethan.moreau@example.org",
+            "julia.bertrand@example.org",
+            "isaac.thomas@example.org",
+            "lea.simon@example.org",
+            "noah.roux@example.org"
+        ]
+    },
+    {
+        "id": "AT-30",
+        "titre": "Couture : la machine à coudre bloquée",
+        "categorie": "couture",
+        "date": "2027-01-23",
+        "debut": "14:00",
+        "dureeMinutes": 120,
+        "lieu": "Médiathèque des Lilas, atelier",
+        "places": 6,
+        "inscrits": [
+            "jade.robert@example.org",
+            "louis.laurent@example.org",
+            "emma.vincent@example.org"
+        ]
+    }
+]
